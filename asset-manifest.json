@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3ed2ab0.css",
-    "main.js": "/static/js/main.fc9c5974.js",
-    "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
-    "static/media/Fighter.png": "/static/media/Fighter.4a70764530cb740b0621.png",
+    "main.css": "/static/css/main.6c238681.css",
+    "main.js": "/static/js/main.f77f957b.js",
+    "static/media/zara.png": "/static/media/zara.9bf011c9d6967e8e93ad.png",
+    "static/media/overstock.png": "/static/media/overstock.7495af3b5de8fc1ee6fb.png",
+    "static/media/mynetdiary.png": "/static/media/mynetdiary.611cdae3e63a2a1d4aea.png",
+    "static/media/about2.jpg": "/static/media/about2.ecf1da72919ce9b114f9.jpg",
+    "static/media/moredark1.png": "/static/media/moredark1.4a70764530cb740b0621.png",
+    "static/media/cv.pdf": "/static/media/cv.014d52105b02b81c7fd4.pdf",
     "index.html": "/index.html",
-    "main.a3ed2ab0.css.map": "/static/css/main.a3ed2ab0.css.map",
-    "main.fc9c5974.js.map": "/static/js/main.fc9c5974.js.map",
-    "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
+    "main.6c238681.css.map": "/static/css/main.6c238681.css.map",
+    "main.f77f957b.js.map": "/static/js/main.f77f957b.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3ed2ab0.css",
-    "static/js/main.fc9c5974.js"
+    "static/css/main.6c238681.css",
+    "static/js/main.f77f957b.js"
   ]
 }
